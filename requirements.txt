@@ -1,0 +1,6 @@
+langchain
+streamlit
+easyocr
+numpy
+pillow
+serpapi
